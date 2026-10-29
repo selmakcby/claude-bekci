@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/kapak.jpg" alt="Bekçi: Claude Code'un kapısında iki küçük bekçi" width="100%"></p>
+
 # Bekçi: Claude Code'un kapısına iki küçük bekçi
 
 Ajanının içeri ne aldığını ve dışarı ne çıkardığını denetleyen iki küçük Claude Code hook'u.
