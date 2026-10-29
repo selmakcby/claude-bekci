@@ -140,7 +140,7 @@ Derleme tarihi: 25 Ekim 2026 (yayın: 28 Ekim 2026). Doküman zamanla değişebi
 
 ## Lisans
 
-Tüm hakları saklıdır. Ayrıntılar [`LICENSE`](LICENSE) dosyasında.
+MIT. Kullan, değiştir, paylaş; ayrıntılar [`LICENSE`](LICENSE) dosyasında.
 
 ---
 
